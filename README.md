@@ -10,7 +10,7 @@ HTML5 CSS3 JavaScript
 
 I appreciate any contributions to this portfolio project. If you have any suggestions, bug fixes, or feature enhancements, please submit a pull request. Let's collaborate and make this portfolio even better together!
 
-License This project is licensed under the MIT License.
+
 
 Contact If you have any questions or feedback or want to connect, feel free to contact me. You can find my contact information below:
 
